@@ -1,0 +1,12 @@
+header {
+  border: purple solid 5px;
+}
+.main-background {
+  background-color: red;
+}
+.fancy-text {
+  text-decoration: underline;
+}
+#fancy-nav {
+  background-color: darkcyan;
+}

@@ -1,5 +1,6 @@
 header {
   border: purple solid 5px;
+  font:100px;
 }
 .main-background {
   background-color: red;
